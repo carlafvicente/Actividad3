@@ -1,0 +1,49 @@
+/* Hoja de estilos Texto04.html */
+
+html {
+    background-color: #dde3eb;
+}
+
+* {
+    font-family: arial;
+    color: black;
+}
+
+h1 {
+    font-size: 30px;
+    color: #262626;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    color:#2f3a46;
+    background-color: #8092a3;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h3 {
+    color: #5e7285;
+    background-color: #9babb9;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    font-size: 12px;
+    background-color: #b8c5d3;
+}
+
+span.resaltado {
+    font-weight: bold;
+}
+
+#email {
+    background-color: white;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+}

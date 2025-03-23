@@ -1,0 +1,41 @@
+/* Hoja de estilos Texto07.html */
+
+body {
+    font-family: arial;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 16px;
+    color: red;
+    background-color: #a0a0a0;
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 12px;
+    background-color: #d8d8d8;
+    line-height: 140%;
+}
+
+span.resaltado {
+    font-weight: bold;
+    color: blue;
+    text-decoration: underline;
+}
+
+span.anios {
+    color: #39be39
+}
+
+#destacado {
+    background-color: yellow !important;
+}

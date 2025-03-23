@@ -1,0 +1,29 @@
+/* Hoja de estilos Texto02.html */
+
+p {
+    font-family: courier; 
+    line-height: 30%;
+    text-indent: 4em;
+}
+
+p.explicacion {
+    font-family: times, serif;
+    line-height: 3em;
+    text-indent: 6em;
+    text-decoration: overline;
+}
+
+p.pre {
+    white-space: pre;
+    text-indent: 4em;
+}
+
+.noindent {
+    text-indent: 0em;
+}
+
+.destacado {
+    color: blueviolet;
+    font-size: 2em;
+    font-weight: bold;
+}

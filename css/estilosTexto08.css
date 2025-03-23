@@ -1,0 +1,47 @@
+/* Hoja de estilos Texto08.html */
+
+body {
+    font-family: arial;
+    background-color: #bcdbff;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: right;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+p {
+    font-size: 12px;
+    text-align: justify;
+    text-indent: 2.5em;
+    line-height: 180%;
+}
+
+.comic {
+    font-family: cursive;
+    color: red;
+}
+
+.anio {
+    font-family: times;
+    color: lightsalmon;
+}
+
+.software {
+    color: #bd7b00;
+    font-weight: bold;
+}
+
+.propio {
+    color: #006100;
+    font-style: italic;
+    background-color: white !important;
+}

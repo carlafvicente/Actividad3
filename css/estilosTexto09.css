@@ -1,0 +1,47 @@
+/* Hoja de estilos Texto09.html */
+@import url("https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Open+Sans:ital,wght@1,300..800&family=Permanent+Marker&display=swap");
+
+html {
+    color: black;
+    background-color: #eeccaa;
+}
+
+h1 {
+    font-family: "Fascinate Inline", system-ui;
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 0.6em;
+    text-align: center;
+}
+
+.intro {
+    font-family: "Open Sans", sans-serif;
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 2em;
+    margin-left: 33%;
+}
+
+span {
+    font-weight: bold !important;
+}
+
+cite {
+    text-decoration: underline;
+}
+
+.latin {
+    font-family: "Permanent Marker", cursive;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.espaniol {
+    color: white;
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    text-align: right;
+}

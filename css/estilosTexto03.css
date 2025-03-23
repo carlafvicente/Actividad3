@@ -1,0 +1,39 @@
+/* Hoja de estilos Texto03.html */
+
+p {
+    font-family: arial;
+    font-size: 30px;
+}
+
+#segundo {
+    font-size: 14px;
+}
+
+span.azul {
+    color: blue;
+    font-size: 2em;
+    vertical-align: -0.8em;
+    text-decoration: line-through;
+}
+
+span.verde {
+    color: green;
+    vertical-align: super;
+    text-decoration: underline;
+}
+
+span.menor {
+    font-size: 11px;
+}
+
+#top {
+    vertical-align: text-top;
+}
+
+#alto {
+    vertical-align: super;
+}
+
+#bajo {
+    vertical-align: -0.8em;
+}
